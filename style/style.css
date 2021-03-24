@@ -29,6 +29,7 @@
     height: 40px;
     letter-spacing: 1px;
     text-align: center;
+    background-color: rgb(255, 253, 164);
 }
 table{
     width: 100%;
@@ -36,4 +37,5 @@ table{
 }
 td{
     text-align: center;
+    background-color: beige;
 }
